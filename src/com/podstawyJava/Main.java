@@ -12,6 +12,7 @@ public class Main {
         String myText = "Hello";
         String name = "Anna";
         Array x;
+        
 //etc.
 
 //primitive data types:
