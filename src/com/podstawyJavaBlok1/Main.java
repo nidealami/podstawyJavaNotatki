@@ -1,4 +1,4 @@
-package com.podstawyJava;
+package com.podstawyJavaBlok1;
 
 import java.lang.reflect.Array;
 
@@ -12,7 +12,7 @@ public class Main {
         String myText = "Hello";
         String name = "Anna";
         Array x;
-        
+
 //etc.
 
 //primitive data types:
