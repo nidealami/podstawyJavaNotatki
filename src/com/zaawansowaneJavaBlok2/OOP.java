@@ -11,5 +11,18 @@ public class OOP {
     //    OOP umożliwia tworzenie aplikacji wielokrotnego użytku z mniejszą ilością kodu i krótszym czasem programowania
 
 
+    int x = 10;
+
+    public static void main(String[] args) {
+        OOP myObj = new OOP();
+        myObj.x = 25; // x is now 25
+        System.out.println(myObj.x);
+
+
+        //The dot (.) is used to access the object's attributes and methods.
+        //
+        //To call a method in Java, write the method name followed by a set of parentheses (), followed by a semicolon (;).
+    }
 
 }
+
